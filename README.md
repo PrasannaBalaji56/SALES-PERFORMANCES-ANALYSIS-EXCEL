@@ -227,3 +227,8 @@ This project demonstrates practical experience in:
 This project was developed as a practical **Excel data analytics project** to demonstrate the ability to take a raw dataset, clean and analyze it, and convert the results into a business-oriented interactive dashboard.
 
 It represents an end-to-end analytical workflow using **Microsoft Excel**.
+
+
+## Dashboard 
+<img width="1886" height="754" alt="Screenshot 2026-08-14 220752" src="https://github.com/user-attachments/assets/8c9be6e1-ca32-4b6e-8d24-7aa3ea925a09" />
+
